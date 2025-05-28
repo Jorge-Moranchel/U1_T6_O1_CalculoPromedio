@@ -1,7 +1,7 @@
 public class Estudiante {
     private String nombre;
     private String matricula;
-    private double[] promedio = new double[5]; // Arreglo de 5 notas
+    private double[] promedio = new double[5];
 
     public double calcularPromedio() {
         double suma = 0;
