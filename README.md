@@ -1,1 +1,1 @@
-# U1_T6_O1_CalculoPromedio
+# U1_TI_O1_CalcularPromedio
