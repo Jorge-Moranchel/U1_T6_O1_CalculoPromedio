@@ -11,7 +11,7 @@ public class Estudiante {
             suma += promedio[i]; // Sumar todas las notas
         }
         return suma / promedio.length; // Promedio
- }
+    }
 
     // Método para verificar si el estudiante está aprobado
     public boolean aprobado() {
